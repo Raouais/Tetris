@@ -1,0 +1,71 @@
+*{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+body{
+    width: 800px;
+}
+h1{
+    color: black;
+    font-size: 50px;
+}
+.score{
+    float: left;
+    width: 200px !important;
+    border: solid 3px rgb(26, 18, 18);
+    width: 150px;
+    font-size: 35px;
+}
+.piece{
+    float: right;
+    width: 200px !important;
+    border: solid 3px rgb(26, 18, 18);
+    width: 150px;
+    font-size: 35px;
+}
+#nextPiece{
+    width: 200px !important;
+    border: solid 3px rgb(26, 18, 18);
+    min-width: 175px;
+    min-height: 150px;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.hat{
+    background-image: url("../images/hat.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.bar{
+    background-image: url("../images/bar.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.el{
+    background-image: url("../images/el.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.elUpside{
+    background-image: url("../images/elUpside.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.es{
+    background-image: url("../images/es.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.esUpside{
+    background-image: url("../images/esUpside.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.square{
+    background-image: url("../images/sqaure.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
